@@ -1,7 +1,8 @@
 **`project_report.pdf`** — please refer to this file for a complete description of the project.
-**Authors**: Maxime Muhlethaler, Titouan Pottier
 
 # BIRD — Multi-scale Time–Frequency Denoising
+
+**Authors**: Maxime Muhlethaler, Titouan Pottier
 
 
 ## Overview
