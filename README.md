@@ -1,6 +1,8 @@
+**`project_report.pdf`** — please refer to this file for a complete description of the project.
+**Authors**: Maxime Muhlethaler, Titouan Pottier
+
 # BIRD — Multi-scale Time–Frequency Denoising
 
-**Authors**: Maxime Muhlethaler, Titouan Pottier
 
 ## Overview
 This project implements **BIRD** and **S-BIRD**, two greedy denoising algorithms for time-series signals based on a **multi-scale MDCT time–frequency representation**.  
